@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://AlexBraun:88876839@tutorial-n6wwk.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://AlexBraun:88876839@tutorial-n6wwk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "6c3dc6ec64b75808c104",
+    "githubSecret": "f6fcb91c9117c3ebddf917e5890dcdd64f820267"
 }
